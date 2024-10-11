@@ -1,0 +1,7 @@
+my_string = input('Введите имя ')
+print('Здраствуйте,', my_string, ',хотел узнать как ваши дела')
+print(my_string.upper())
+print(my_string.lower())
+print('Привет, как проходит  твое обучение' . replace(' ', ""))
+print(my_string[0])
+print(my_string[-1])
